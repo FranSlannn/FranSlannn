@@ -20,4 +20,4 @@ Soy un/a especialista en sistemas informáticos con 2 años de experiencia como 
 
 ¡No dudes en contactarme si quieres hablar de tecnología, colaborar en proyectos o simplemente charlar sobre tus intereses! 😄
 
-🌐 ¡Explora mi [Portafolio Personal](https://franslannn.github.io/Portafolio/) para ver algunos de mis proyectos!
+🌐 ¡Explora mi [Portafolio Personal](https://franslannn.github.io/Portafolio-main/) para ver algunos de mis proyectos!
